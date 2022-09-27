@@ -1,0 +1,6 @@
+torch==1.12.1+cu113
+numpy==1.21.6
+torchvision==0.13.1+cu113
+pandas==1.3.5
+thop==0.1.1.post2207130030
+tqdm==4.64.0
