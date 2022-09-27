@@ -1,4 +1,4 @@
-# CoCa Capsule Network based Contrastive Learning of Unsupervised Visual Representations
+# CoCa - Capsule Network based Contrastive Learning of Unsupervised Visual Representations
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg) 
 [![harshpanwar](https://img.shields.io/twitter/follow/harsh__panwar?style=social)](https://mobile.twitter.com/harsh__panwar)
